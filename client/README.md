@@ -47,12 +47,13 @@ cd server
 npm install
 
 Configuration
-create a folder config and create a file in thi folder as config.js and create a object
+create a folder config and create a file in this folder as config.js and create a object
   SECRET_JWT : "YOUR_SECRET_KEY",
   USER_EMAIL: "YOUR_MAIL",
   USER_PASSWORD : "YOUR_PASSWORD",
   PORT : PORT,
-  MONGO_URI : "YOUR_MONGODB_URI"
+  MONGO_URI : "YOUR_MONGODB_URI",
+  RESET_PASSWORD_LINK: YOUR_RESET_PASSWORD_COMPONENT_PATH
 
   Note:- instead of your orignal password you can create app password that is provided by gmail
 
