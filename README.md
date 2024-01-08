@@ -33,7 +33,7 @@ Before you begin, ensure you have the following installed:
 ## Installation
 1. Clone the repository
     ```bash
-    git clone https://github.com/Vikramkumar113/MERN-APP.git
+    git clone https://github.com/Vikramkumar113/MERN-AUTHENTICATION-APP.git
     ```
 
 2. Install server dependencies
